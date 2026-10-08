@@ -58,9 +58,9 @@ app/src/main/java/com/example/responsi_pemmob_h1d024037/
 
 ## 📸 Tangkapan Layar (Screenshots)
 
-| Home Screen (Katalog) | Pencarian (Search) | Detail Screen (Bahan) | Detail Screen (Instruksi) |
+| Home Screen (Katalog) | Filter Kategori | Pencarian (Search) | Detail Screen |
 |:---:|:---:|:---:|:---:|
-| <img src="Screenshot/1.jpeg" width="200" alt="Home" /> | <img src="Screenshot/2.jpeg" width="200" alt="Search" /> | <img src="Screenshot/3.jpeg" width="200" alt="Detail Bahan" /> | <img src="Screenshot/4.jpeg" width="200" alt="Detail Instruksi" /> |
+| <img src="Screenshot/1.jpeg" width="200" alt="Home Screen" /> | <img src="Screenshot/2.jpeg" width="200" alt="Filter Kategori" /> | <img src="Screenshot/3.jpeg" width="200" alt="Pencarian" /> | <img src="Screenshot/4.jpeg" width="200" alt="Detail Screen" /> |
 
 ---
 
